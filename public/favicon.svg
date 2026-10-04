@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Senior Cert FAQ">
+  <rect width="64" height="64" rx="8" fill="#2f6b88"/>
+  <circle cx="32" cy="32" r="23" fill="#fff"/>
+  <path d="M32 19.5 35.3 28.7 44.5 32l-9.2 3.3L32 44.5l-3.3-9.2L19.5 32l9.2-3.3L32 19.5Z" fill="#2f6b88"/>
+</svg>
